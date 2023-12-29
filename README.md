@@ -10,7 +10,7 @@
 
 ## Description
 
-This is a simple *currency converter* made using *[FreecurrencyAPI's](https://app.freecurrencyapi.com/)* currency converter *API*. You can do simple currency conversions by typing the desired currency, or typing the currency followed by the amount to be exchanged and the program runs the conversions and returns an output containing multiple conversions to other currencies. 
+This is a simple *currency converter* made using *[FreecurrencyAPI's](https://app.freecurrencyapi.com/)* currency converter *API*. You can do simple currency conversions by typing the desired currency, or typing the currency followed by the amount to be exchanged. The program thern runs the conversion and returns an output containing multiple conversions to other currencies. 
 
 ## Files
 
